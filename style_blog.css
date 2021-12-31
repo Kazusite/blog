@@ -5,7 +5,7 @@
 		text-align: left;
 	}
 	table {
-		margin:auto
+		margin:auto;
 	}
 }
 
@@ -18,7 +18,7 @@
 	table,tbody,tr,td,th {
 		width: 100%;    /* 幅を100%にする */
 		display: block; /* ブロック要素にする */
-		margin:auto
+		text-align: center;
 	  }
 }
 
