@@ -1,7 +1,7 @@
 @media screen and (min-width: 480px) {
 	.blog-title {
 		padding: 0px 30px 0px 30px;
-		font-size: xx-large;
+		font-size: x-large;
 		text-align: left;
 	}
 	table {
@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 480px) {
 	.blog-title {
-		font-size: xx-large;
+		font-size: x-large;
 		text-align: center;
 
 	}
