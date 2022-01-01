@@ -12,7 +12,7 @@
 		text-align: left;
 		vertical-align: top;
 	}
-	
+
 	td.blog-caption {
 		text-align: right;
 		vertical-align: top;
@@ -69,4 +69,17 @@
 	.blog-title {
 		color: black;
 	}
+}
+
+a.blog-title {
+	text-decoration: none;
+}
+
+table.ex_table {
+	border-collapse: collapse;
+	border: 0;
+  }
+
+td.ex_border_a {
+	border-bottom: 3px solid gray;
 }
