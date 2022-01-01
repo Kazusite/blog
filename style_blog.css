@@ -17,6 +17,7 @@
 		text-align: right;
 		vertical-align: top;
 	}
+	
 }
 
 @media screen and (max-width: 480px) {
@@ -31,6 +32,10 @@
 		display: block;
 		/* ブロック要素にする */
 		text-align: center;
+	}
+
+	td.ex_border_ab {
+		display: none;
 	}
 }
 
