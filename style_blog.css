@@ -15,7 +15,7 @@
 	td.blog-caption {
 		text-align: right;
 	}
-	
+
 }
 
 @media screen and (max-width: 480px) {
@@ -44,6 +44,7 @@
 .blog-caption-small {
 	color: gray;
 	font-size: small;
+	text-align: left;
 }
 
 .blog-title {
@@ -81,8 +82,20 @@ a.blog-title {
 table.ex_table {
 	border-collapse: collapse;
 	border: 0;
-  }
+}
 
 td.ex_border_a {
 	border-bottom: 3px solid gray;
 }
+
+li a.blog-title {
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+br {
+	display: block;
+	content: "";
+	padding: 0px 0;
+	}
