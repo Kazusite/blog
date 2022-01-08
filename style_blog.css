@@ -98,4 +98,8 @@ br {
 	display: block;
 	content: "";
 	padding: 0px 0;
-	}
+}
+
+.flex1a {
+	display: flex;
+}
